@@ -1,4 +1,3 @@
 eulogic
 =======
-
-google scraper makes eulogy of sites
+Eulogic is a performative eulogy generator that takes a search term, finds one of the least popular search results for that search term, goes to that site, scrapes the site for text to use as a corpus to fill in a eulogic-style poem, while concurrently performing a DDOS attack on that site, effectively killing it. In the site’s metaphoric death, we pay homage to its legacy in the form of a solemn tribute.
